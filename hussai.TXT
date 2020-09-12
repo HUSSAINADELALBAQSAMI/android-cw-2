@@ -1,0 +1,16 @@
+public class HelloWorld{// open Hello
+
+     public static void main(String []args){ // open main
+    scar();
+        
+        
+     }// close main
+     
+     
+     public static void scar (){ // open
+     for(int i=1; i <= 10; i++)    
+     {// open for   
+     System.out.println(i);
+     }// close for
+     }// close
+}// close Hello
